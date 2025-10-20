@@ -23,7 +23,7 @@ Welcome to the documentation for My Project!
 Introduction
 ------------
 
-This project does amazing things.
+This project is teaching me how to do useful things.
 
 Installation
 ------------
