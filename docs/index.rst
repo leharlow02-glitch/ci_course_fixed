@@ -15,3 +15,31 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+My Project
+==========
+
+Welcome to the documentation for My Project!
+
+Introduction
+------------
+
+This project does amazing things.
+
+Installation
+------------
+
+To install:
+
+.. code-block:: bash
+
+    pip install myproject
+
+Usage
+-----
+
+Example usage:
+
+.. code-block:: python
+
+    import myproject
+    myproject.do_something()
