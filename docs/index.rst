@@ -3,32 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ci_cours documentation
+
+ci_cours Documentation
 ======================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Welcome to the ci_cours documentation! This documentation is hosted on Read the Docs and built using Sphinx.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-My Project
-==========
-
-Welcome to the documentation for My Project!
+   usage
+   api_reference
 
 Introduction
 ------------
 
-This project does amazing things.
+This project does amazing things. Here you can describe the purpose of your project, its features, and any important notes.
 
 Installation
 ------------
 
-To install:
+To install the package:
 
 .. code-block:: bash
 
@@ -37,9 +33,27 @@ To install:
 Usage
 -----
 
-Example usage:
+Here’s a quick example of how to use the package:
 
 .. code-block:: python
 
     import myproject
     myproject.do_something()
+
+Notes
+-----
+
+You can add additional notes, warnings, or tips using these directives:
+
+.. note::
+
+   This is a note.
+
+.. warning::
+
+   This is a warning.
+
+Contributing
+------------
+
+Instructions for contributing, reporting issues, or submitting pull requests can go here.
